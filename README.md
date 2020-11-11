@@ -14,6 +14,6 @@ Latent Dirichlet Allocation (LDA)
 3.Numpy
 4.Wordcloud
 5.Seaborn
-6.Matplotlin
+6.Matplotlib
 7.Gensim
 8.Tweet Preprocessor
