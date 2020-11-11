@@ -9,11 +9,11 @@ Valence Aware Dictionary for sEntiment Reasoning (VADER)
 Latent Dirichlet Allocation (LDA)
 
 ## Libraries Used
-• NLTK
-• Pandas
-• Numpy
-• Wordcloud
-• Seaborn
-• Matplotlin
-• Gensim
-• Tweet Preprocessor
+1.NLTK
+2.Pandas
+3.Numpy
+4.Wordcloud
+5.Seaborn
+6.Matplotlin
+7.Gensim
+8.Tweet Preprocessor
